@@ -9,3 +9,5 @@ GitHub 對上傳檔案大小有限制，具體如下：
 
 若需上傳超過 100 MB 的檔案，必須使用 **Git LFS** 或其他外部儲存服務（如 Amazon S3、Google Cloud Storage 或 Dropbox），並在 GitHub 中添加指向這些檔案的連結。對於超過 2 GB 的檔案，建議分割檔案或使用其他解決方案。[1](https://docs.github.com/zh/repositories/working-with-files/managing-large-files/about-large-files-on-github)[2](https://www.cnblogs.com/asyaB404/p/18278850)[3](https://docs.github.com/zh/repositories/working-with-files/managing-large-files)
 
+---
+
