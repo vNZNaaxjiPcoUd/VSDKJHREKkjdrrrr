@@ -1,8 +1,8 @@
 const songs = [
-  '500.mp3',
   'Sakura.mp3',
   'slamdunk.mp3',
   'JePrends.mp3',
+  '500.mp3',
   '500TW.mp3',
   'GuQin.mp3',
 ];
