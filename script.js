@@ -31,7 +31,7 @@ player.addEventListener('ended', () => {
 });
 */
 
-/* //隨機重複播放
+//隨機重複播放
 player.addEventListener('ended', () => {
   const randomIndex = Math.floor(Math.random() * songs.length);
   player.src = songs[randomIndex];
